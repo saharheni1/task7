@@ -40,3 +40,4 @@ if (ch[r]==")"){r++}
 if (ch[r]==" "||ch[r]=="-"){
     r++}
     return true}
+//I did not understand the second task  
